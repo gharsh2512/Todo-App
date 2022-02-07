@@ -24,12 +24,7 @@ function Home(){
         <button type="button" onClick={handleAdd}> Add</button>
       </div>
       <ul>
-        {/* {items.map((item)=>(
-          <li key={item}>{item}<button onClick={(e) => {
-            e.preventDefault()
-            handleDelete(item)
-          }}>Delete</button></li>
-        ))} */}
+        
        
 
        {
